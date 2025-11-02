@@ -2,20 +2,20 @@
 
 ## Aulas
 
-### El primer programa en Java (0 / 13 | 19min)
-- [ ] Presentación
-- [ ] Preparando el ambiente: instalando Java
-- [ ] Instalando Java
-- [ ] Para saber más: una guía para iniciar en Java
-- [ ] ¿Editores de código o IDE’s?
-- [ ] Preparando el ambiente: instalando IntelliJ
-- [ ] Para saber más: IntelliJ IDEA - Tips
-- [ ] El primer programa
-- [ ] Para saber más: Bytecode y JVM
-- [ ] Imprimir en la consola
-- [ ] Para saber más
-- [ ] Haga lo que hicimos: sumergiéndose en Java
-- [ ] Lo que aprendimos
+### El primer programa en Java (13 / 13 | 19min)
+- [x] Presentación
+- [x] Preparando el ambiente: instalando Java
+- [x] Instalando Java
+- [x] Para saber más: una guía para iniciar en Java
+- [x] ¿Editores de código o IDE’s?
+- [x] Preparando el ambiente: instalando IntelliJ
+- [x] Para saber más: IntelliJ IDEA - Tips
+- [x] El primer programa
+- [x] Para saber más: Bytecode y JVM
+- [x] Imprimir en la consola
+- [x] Para saber más
+- [x] Haga lo que hicimos: sumergiéndose en Java
+- [x] Lo que aprendimos
 
 ### Construyendo el catálogo de películas (0 / 14 | 25min)
 - [ ] Proyecto del aula anterior
