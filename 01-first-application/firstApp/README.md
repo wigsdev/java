@@ -17,19 +17,19 @@
 - [x] Haga lo que hicimos: sumergiéndose en Java
 - [x] Lo que aprendimos
 
-### Construyendo el catálogo de películas (0 / 14 | 25min)
-- [ ] Proyecto del aula anterior
-- [ ] Asignando valores a las películas
-- [ ] Para saber más: operadores
-- [ ] Para saber más: convenciones de código
-- [ ] Para saber más: tipos primitivos
-- [ ] Trabajando con textos
-- [ ] Para saber más: comentarios en el código fuente
-- [ ] Para saber más: strings y text blocks
-- [ ] Para saber más: formato de textos
-- [ ] Para saber más: Casting
-- [ ] Convirtiendo valores
-- [ ] Concatenación de Strings y enteros
+### Construyendo el catálogo de películas (12 / 14 | 25min)
+- [x] Proyecto del aula anterior
+- [x] Asignando valores a las películas
+- [x] Para saber más: operadores
+- [x] Para saber más: convenciones de código
+- [x] Para saber más: tipos primitivos
+- [x] Trabajando con textos
+- [x] Para saber más: comentarios en el código fuente
+- [x] Para saber más: strings y text blocks
+- [x] Para saber más: formato de textos
+- [x] Para saber más: Casting
+- [x] Convirtiendo valores
+- [x] Concatenación de Strings y enteros
 - [ ] Desafío: conversión de temperaturas
 - [ ] Lo que aprendimos
 
