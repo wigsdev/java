@@ -1,0 +1,28 @@
+# Build output
+out/
+bin/
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings
+.factorypath
+.apt_generated
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Local files
+historial_commits.txt
+
+# Mac OS
+.DS_Store
