@@ -33,7 +33,7 @@
 - [x] Desafío: conversión de temperaturas
 - [x] Lo que aprendimos
 
-### Controlando el flujo de la aplicación (0 / 14 | 47min)
+### Controlando el flujo de la aplicación (14 / 14 | 47min)
 - [x] Proyecto del aula anterior
 - [x] Tomando decisiones #1
 - [x] Tomando decisiones #2
@@ -50,11 +50,11 @@
 - [x] Lo que aprendimos
 
 ### Consolidando conocimientos (0 / 8 | 32min)
-- [ ] Desafío: construyendo una nueva aplicación
-- [ ] Presentación del desafío
-- [ ] Inicializando los valores de la cuenta
-- [ ] Montando el menú de opciones
-- [ ] Implementando los cálculos
-- [ ] Proyecto final
-- [ ] Lo que aprendimos
-- [ ] Conclusión
+- [x] Desafío: construyendo una nueva aplicación
+- [x] Presentación del desafío
+- [x] Inicializando los valores de la cuenta
+- [x] Montando el menú de opciones
+- [x] Implementando los cálculos
+- [x] Proyecto final
+- [x] Lo que aprendimos
+- [x] Conclusión
