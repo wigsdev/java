@@ -17,7 +17,7 @@
 - [x] Haga lo que hicimos: sumergiéndose en Java
 - [x] Lo que aprendimos
 
-### Construyendo el catálogo de películas (12 / 14 | 25min)
+### Construyendo el catálogo de películas (14 / 14 | 25min)
 - [x] Proyecto del aula anterior
 - [x] Asignando valores a las películas
 - [x] Para saber más: operadores
@@ -30,14 +30,14 @@
 - [x] Para saber más: Casting
 - [x] Convirtiendo valores
 - [x] Concatenación de Strings y enteros
-- [ ] Desafío: conversión de temperaturas
-- [ ] Lo que aprendimos
+- [x] Desafío: conversión de temperaturas
+- [x] Lo que aprendimos
 
 ### Controlando el flujo de la aplicación (0 / 14 | 47min)
-- [ ] Proyecto del aula anterior
-- [ ] Tomando decisiones #1
-- [ ] Tomando decisiones #2
-- [ ] Para saber más: Switch Case
+- [x] Proyecto del aula anterior
+- [x] Tomando decisiones #1
+- [x] Tomando decisiones #2
+- [x] Para saber más: Switch Case
 - [ ] Lectura de datos
 - [ ] Para saber más: Clase Scanner
 - [ ] Evaluando una película
