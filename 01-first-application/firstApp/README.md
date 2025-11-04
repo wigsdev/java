@@ -41,7 +41,7 @@
 - [x] Lectura de datos
 - [x] Para saber más: Clase Scanner
 - [x] Evaluando una película
-- [ ] Otras formas de iterar datos
+- [x] Otras formas de iterar datos
 - [ ] Infinitos 1...
 - [ ] Transformando While en For
 - [ ] Operador lógico
