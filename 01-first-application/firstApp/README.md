@@ -38,8 +38,8 @@
 - [x] Tomando decisiones #1
 - [x] Tomando decisiones #2
 - [x] Para saber más: Switch Case
-- [ ] Lectura de datos
-- [ ] Para saber más: Clase Scanner
+- [x] Lectura de datos
+- [x] Para saber más: Clase Scanner
 - [ ] Evaluando una película
 - [ ] Otras formas de iterar datos
 - [ ] Infinitos 1...
