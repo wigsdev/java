@@ -42,12 +42,12 @@
 - [x] Para saber más: Clase Scanner
 - [x] Evaluando una película
 - [x] Otras formas de iterar datos
-- [ ] Infinitos 1...
-- [ ] Transformando While en For
-- [ ] Operador lógico
-- [ ] Desafío: juego de adivinación
-- [ ] Proyecto Final
-- [ ] Lo que aprendimos
+- [x] Infinitos 1...
+- [x] Transformando While en For
+- [x] Operador lógico
+- [x] Desafío: juego de adivinación
+- [x] Proyecto Final
+- [x] Lo que aprendimos
 
 ### Consolidando conocimientos (0 / 8 | 32min)
 - [ ] Desafío: construyendo una nueva aplicación
